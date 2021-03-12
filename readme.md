@@ -1,3 +1,5 @@
-O makefile tem três comandos, `make build`, `make run` e `make all`, o último sendo a junção dos dois anteriores.
+Rode usando `make all` no terminal.
 
+Jogo feito em C e Allegro-5
+Vencedor da gamejam-ip CIn UFPE
 
